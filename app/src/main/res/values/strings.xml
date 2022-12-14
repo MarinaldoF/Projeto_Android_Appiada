@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Appiadas</string>
+    <string name="label_joker_hint">Aqui será exibida a piada</string>
+    <string name="button_new_joker">Conte outra piada</string>
+
+    <string name="joker_one">Jokers 1.</string>
+    <string name="joker_two">Jokers 2.</string>
+    <string name="joker_three">Jokers 3.</string>
+    <string name="joker_four">Jokers 4.</string>
+    <string name="joker_five">Jokers 5.</string>
+    <string name="joker_six">Jokers 6.</string>
+    <string name="joker_seven">Jokers 7.</string>
+
+</resources>
